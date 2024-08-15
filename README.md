@@ -1,4 +1,4 @@
-# Simon Game (https://ganeshkayapati.github.io/Simon-game/)
+# [Simon Game](https://ganeshkayapati.github.io/Simon-game/)
 
 ## Overview
 
