@@ -1,4 +1,4 @@
-# [Simon Game](https://ganeshkayapati.github.io/Simon-game/)
+# Simon Game <a href="https://ganeshkayapati.github.io/Simon-game/" style="font-size:12px; margin-left:10px;">🔗 Live Demo</a>
 
 ## Overview
 
